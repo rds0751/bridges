@@ -1,0 +1,16 @@
+node_modules/
+# .env
+.openzeppelin/
+.vscode/
+/.vs
+build/contracts/
+artifacts
+cache
+coverage.json
+coverage/
+.idea/
+yarn-error.log
+/deployments/
+/scripts/proxies.json
+typechain-types/
+tmp/
